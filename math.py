@@ -1,5 +1,5 @@
 
-hi=int(input("write number")
+hi=int(input("write number"))
 if hi==0:
  print "Number equals to zero"
 elif hi>0:
