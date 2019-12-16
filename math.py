@@ -1,5 +1,5 @@
 
-hi=int(input("type number:")
+hi=int(input("type number:"))
 if hi==0:
  print "Number equals to zero"
 elif hi>0:
