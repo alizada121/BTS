@@ -5,4 +5,4 @@ if hi==0:
 elif hi>0:
  print "positive num"
 elif hi<0:
- print "negative"
+ print "negative" 
